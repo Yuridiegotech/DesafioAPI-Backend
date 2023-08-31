@@ -22,3 +22,6 @@ Via terminal, será disposto o resultado dos testes:
 De acordo com o plano de teste Disponivel no link:
 https://docs.google.com/document/d/1tDQck9WezxBEOp7BnyuiRV6xHTuZeJb7daGWl0cw6KI/edit?usp=sharing
 
+Além disso, na pasta raiz do projeto, será criado um arquivo HTML Chamado ExtentReport.
+Nele é disposto um relatório, mais  detalhado sobre cada teste 
+
