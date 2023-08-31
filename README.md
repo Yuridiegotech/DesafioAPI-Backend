@@ -7,7 +7,7 @@ Ao abrir o projeto na IDE, deve estar devidamente vinculado no projeto o JDK e o
 
 Abra o terminal e vá para Raiz do projeto.
 
-Execute primeiramente o comando :**mvn clean spring-boot:run**
+Execute primeiramente o comando : **mvn clean spring-boot:run**
 
 este comando iniciará o servidor da API.
 
