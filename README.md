@@ -2,14 +2,16 @@
 Desafio de API BACK-END usando rest-Assured
 
 Para que execute os testes, deve estar instalado o JDK 8 , e o maven.
+
 Ao abrir o projeto na IDE, deve estar devidamente vinculado no projeto o JDK e o Maven.
+
 Abra o terminal e vá para Raiz do projeto.
 
-Execute primeiramente o comando : mvn clean spring-boot:run 
+Execute primeiramente o comando :**mvn clean spring-boot:run**
 
 este comando iniciará o servidor da API.
 
-Após isso, execute em um segundo terminal, o comando MVN Test.
+Após isso, execute em um segundo terminal, o comando: **MVN Test.**
 
 Esse comando irá executar os testes.
 
